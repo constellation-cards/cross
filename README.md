@@ -1,0 +1,2 @@
+# cross
+A Discord bot
